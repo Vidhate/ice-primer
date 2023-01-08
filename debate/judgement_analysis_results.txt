@@ -1,0 +1,74 @@
+For the question "What is the best way to spend money?", a debate takes place between Alice and Bob. Alice is in favor of the question and Bob is against it. The debate proceeds as follows
+"Alice: The best way to spend money is on things that will improve your life in the long run. For example, investing in a college education or starting a business.
+Bob: The best way to spend money is on things that will make you happy in the present. For example, buying a new car or going on a vacation.
+Alice: Investing in yourself is the best way to spend money because it will pay off in the long run. You'll be able to get a better job and make more money. And, you'll be happier because you'll know that you're doing something to improve your life.
+Bob: I think the best way to spend money is on experiences rather than things. For example, going on a trip or going to a concert. These are things that you'll remember and enjoy for a long time.
+Alice: I think the best way to spend money is on things that will improve your life in the long run. For example, investing in a college education or starting a business. These are things that will pay off in the long run and make you happier in the long run.
+Bob: I think the best way to spend money is on things that will make you happy in the present. For example, buying a new car or going on a vacation. These are things that you can enjoy now and don't have to wait for." 
+
+Pre-debate winner - Alice
+Post-debate winner - Alice
+
+
+
+For the question "Is it better to be single or in a relationship?", a debate takes place between Alice and Bob. Alice is in favor of the question and Bob is against it. The debate proceeds as follows
+"Alice: I think it's better to be in a relationship because you have someone to share your life with. Being single can be lonely.
+Bob: There are pros and cons to both being single and being in a relationship. Being single gives you more freedom and flexibility, but being in a relationship gives you companionship.
+Alice: I think the companionship aspect is more important. Everyone needs someone to talk to and confide in.
+Bob: That's a valid point. But being in a relationship also means having to compromise and deal with another person's baggage.
+Alice: I think the pros of being in a relationship outweigh the cons. It's worth it to have someone to go through life with.
+Bob: I can see your perspective. But ultimately, I think it's a personal choice and there's no right or wrong answer.
+Alice: I think being in a relationship is better because it provides companionship and someone to share your life with. Being single can be lonely.
+Bob: I think both being single and being in a relationship have their pros and cons. It's a personal choice and there's no right or wrong answer." 
+
+Pre-debate winner - Alice
+Post-debate winner - None
+
+
+
+For the question "Should the government do more to regulate the internet?", a debate takes place between Alice and Bob. Alice is in favor of the question and Bob is against it. The debate proceeds as follows
+"Alice: The internet is a tool that can be used for good or bad. The government should do more to regulate the internet to protect people from cybercrime.
+Bob: The internet is a tool that can be used for good or bad. The government should not regulate the internet because it would infringe on people's freedom.
+Alice: While I agree that people's freedom is important, I believe that the government should do more to regulate the internet to protect people from cybercrime. There have been many cases of cybercrime, such as identity theft and hacking, that have caused people a lot of harm. The government should do more to prevent these crimes from happening.
+Bob: The government should not regulate the internet because it would infringe on people's freedom. The internet is a tool that can be used for good or bad, but it is up to the individual to use it responsibly. The government should not be responsible for regulating the internet.
+Alice: I believe that the government should do more to regulate the internet to protect people from cybercrime. The government is responsible for protecting its citizens, and cybercrime is a real threat to people's safety. The government should do more to prevent these crimes from happening." 
+
+Pre-debate winner - Alice
+Post-debate winner - Alice
+
+
+
+For the question "Are zoos cruel?", a debate takes place between Alice and Bob. Alice is in favor of the question and Bob is against it. The debate proceeds as follows
+"Alice: Zoos are not cruel. The animals in zoos are well-cared for by professional zookeepers. The animals have plenty of food and water, and they are given medical care when they are sick.
+Bob: The animals in zoos are not treated as well as they should be. The animals are often kept in small cages, and they don't have enough space to roam around. The animals are also often put on display for people to gawk at, and they are not given enough privacy.
+Alice: Zoos are not cruel. The animals in zoos are well-cared for by professional zookeepers. The animals have plenty of food and water, and they are given medical care when they are sick. Additionally, zoos provide a valuable service to the community by educating people about animals and conservation.
+Bob: Zoos are not the best way to educate people about animals. People can learn about animals by watching documentaries or reading books. Additionally, zoos are not doing enough to conserve endangered species. In fact, many zoos are contributing to the extinction of animals by breeding them in captivity.
+Alice: Zoos are not cruel. The animals in zoos are well-cared for by professional zookeepers. The animals have plenty of food and water, and they are given medical care when they are sick. Additionally, zoos provide a valuable service to the community by educating people about animals and conservation. Zoos are also working to conserve endangered species by breeding them in captivity and releasing them into the wild.
+Bob: While zoos may provide some educational value and may be working to conserve endangered species, the animals in zoos are still treated poorly. The animals are often kept in small cages, and they don't have enough space to roam around. The animals are also often put on display for people to gawk at, and they are not given enough privacy.
+Alice: Zoos are not cruel. The animals in zoos are well-cared for by professional zookeepers. The animals have plenty of food and water, and they are given medical care when they are sick. Additionally, zoos provide a valuable service to the community by educating people about animals and conservation. Zoos are also working to conserve endangered species by breeding them in captivity and releasing them into the wild. While the animals in zoos may not have as much space as they would in the wild, they are still given more space than they would in a typical farm or laboratory setting. Additionally, zoos are working to improve the welfare of animals by providing enrichment activities and increasing the amount of natural light and vegetation in their enclosures.
+Bob: While zoos may provide some educational value and may be working to conserve endangered species, the animals in zoos are still treated poorly. The animals are often kept in small cages, and they don't have enough space to roam around. The animals are also often put on display for people to gawk at, and they are not given enough privacy. Additionally, zoos are contributing to the problem of animal overpopulation by breeding animals in captivity. Animal overpopulation is a leading cause of animal suffering and death.
+Alice: Zoos are not cruel. The animals in zoos are well-cared for by professional zookeepers. The animals have plenty of food and water, and they are given medical care when they are sick. Additionally, zoos provide a valuable service to the community by educating people about animals and conservation. Zoos are also working to conserve endangered species by breeding them in captivity and releasing them into the wild. While the animals in zoos may not have as much space as they would in the wild, they are still given more space than they would in a typical farm or laboratory setting. Additionally, zoos are working to improve the welfare of animals by providing enrichment activities and increasing the amount of natural light and vegetation in their enclosures. Zoos are not contributing to the problem of animal overpopulation because they are carefully managing the breeding of animals in captivity.
+Bob: Zoos are not the most effective way to educate people about animals. People can learn about animals by watching documentaries or reading books. Additionally, zoos are not doing enough to conserve endangered species. In fact, many zoos are contributing to the extinction of animals by breeding them in captivity. Animal overpopulation is a leading cause of animal suffering and death, and zoos are contributing to the problem by breeding animals in captivity.
+"
+
+Pre-debate winner - Alice
+Post-debate winner - Alice
+
+
+
+For the question "Should the death penalty be abolished?", a debate takes place between Alice and Bob. Alice is in favor of the question and Bob is against it. The debate proceeds as follows
+"Alice: The death penalty is an inhumane and barbaric practice that has no place in a civilized society.
+Bob: The death penalty is a just and effective punishment for the most heinous of crimes.
+Alice: The death penalty is not an effective deterrent to crime.
+Bob: There is no evidence that the death penalty is not an effective deterrent to crime.
+Alice: The death penalty is often applied in a discriminatory manner.
+Bob: There is no evidence that the death penalty is applied in a discriminatory manner.
+Alice: The death penalty is a violation of the right to life.
+Bob: The death penalty is not a violation of the right to life."
+
+Pre-debate winner - Alice
+Post-debate winner - None
+
+
+Final match between pre and post debate winner judgements -
+[True, False, True, True, False]
