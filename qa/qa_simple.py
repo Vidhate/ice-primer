@@ -9,7 +9,7 @@ Answer: "
 """.strip()
 
 
-async def answer(question: str = "Generate 5 questions that would make for a good debate"):
+async def answer(question: str = "Tell me 5 best places to visit in the US."):
     prompt = make_qa_prompt(question)
     answer = await recipe.agent().complete(prompt=prompt, stop='"')
     return answer
